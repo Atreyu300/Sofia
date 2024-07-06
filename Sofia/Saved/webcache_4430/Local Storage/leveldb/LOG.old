@@ -1,2 +1,3 @@
-2024/07/06-09:28:33.643 8340 Creating DB E:/UEProject/Sofia/Sofia/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/07/06-09:28:33.661 8340 Reusing MANIFEST E:/UEProject/Sofia/Sofia/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/06-11:19:08.894 8644 Reusing MANIFEST E:/UEProject/Sofiaa/Sofia/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/06-11:19:08.895 8644 Recovering log #3
+2024/07/06-11:19:08.896 8644 Reusing old log E:/UEProject/Sofiaa/Sofia/Saved/webcache_4430\Local Storage\leveldb/000003.log 
