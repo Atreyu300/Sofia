@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Sofia/Source/*
+Sofia/Saved/*
+Sofia/Saved/VideoCaptures/*
